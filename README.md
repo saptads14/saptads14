@@ -1,10 +1,10 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋Hi+I'm+Saptadeep+Halder;Aspiring+Data+Scientist+💻;Machine+Learning+%7C+Deep+Learning+Enthusiast+🤖;Full+Stack+Developer+🌐;Passionate+about+AI+%26+Innovation+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Saptadeep+Halder;Aspiring+Data+Scientist+💻;Machine+Learning+%7C+Deep+Learning+Enthusiast+🤖;Full+Stack+Developer+🌐;Passionate+about+AI+%26+Innovation+🚀" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile Traffic" />
+  <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile Views Counter" />
 </p>
 
 ---
@@ -26,37 +26,60 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 ## 🧠 **Technical Skills**
 
 ### 💻 Programming Languages  
-`Python` | `Java` | `R` | `C` | `SQL`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,r,c,html,css,javascript,sql" />
+</p>
 
 ### 🎨 Frontend Development  
-`HTML5` | `CSS3` | `Bootstrap` | `JavaScript`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+</p>
 
 ### ⚙️ Backend Development  
-`Django` | `REST Framework` | `WebSocket` | `Flask (Basics)`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,flask" />
+  <img src="https://img.shields.io/badge/REST-API-orange?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-0078D7?style=for-the-badge&logo=websocket&logoColor=white" />
+</p>
 
 ### 🗃️ Databases  
-`PostgreSQL` | `SQLite`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql" />
+</p>
 
 ### ☁️ Cloud & Deployment Tools  
-`Render` | `Vercel` | `AWS (Basics)` | `GitHub Pages` | `Streamlit`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,render,github" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
 ### 🧩 Python Libraries & Frameworks  
-`NumPy` | `Pandas` | `Matplotlib` | `Seaborn` | `Scikit-learn`  
-`TensorFlow` | `PyTorch`
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3C5280?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
 
 ### 🧰 Software Tools & IDEs  
-`Git` | `GitHub` | `VS Code` | `Jupyter Notebook` | `Google Colab`  
-`Anaconda`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
 
 ---
 
 ## 🏆 **Achievements**
-- 🥈 Finalist — *HackXelerate Hackathon 2025* (*Team Data Titans*)   
+- 🥈 Finalist — *HackXelerate Hackathon 2025* (*Team Data Titans*)  
 
 ---
 
 ## 💬 **Soft Skills**
-Communication | Problem Solving | Teamwork | Time Management | Leadership | Creativity  
+🗣️ Communication | 💡 Problem Solving | 🤝 Teamwork | ⏰ Time Management | 👑 Leadership | 🎨 Creativity  
 
 ---
 
@@ -102,4 +125,15 @@ Communication | Problem Solving | Teamwork | Time Management | Leadership | Crea
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding animation"/>
+</p>
+
+---
+
+<h3 align="center">🤝 Thanks for Visiting My Profile! 🤝</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" alt="Handshake animation" />
+</p>
+
+<p align="center">
+  <b>✨ Keep Coding | Keep Learning | Keep Growing ✨</b>
 </p>
