@@ -199,14 +199,8 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 ---
 
 <h3 align="center">🤝 Thanks for Visiting My Profile! 🤝</h3>
+<b>✨ Keep Coding | Keep Learning | Keep Growing ✨</b>
 <p align="center">
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="140" alt="Waving hand animation" />
-</p>
-
-<p align="center">
-  <b>✨ Keep Coding | Keep Learning | Keep Growing ✨</b>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" alt="Rocket Animation"/>
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" alt="Rocket Animation"/>
 </p>
