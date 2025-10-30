@@ -95,7 +95,6 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
       <td>
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70" alt="Power BI"/>
         <img src="https://img.icons8.com/color/96/000000/tableau-software.png" width="48" alt="Tableau" />
-        <img src="https://img.icons8.com/color/96/000000/power-bi.png" width="48" alt="Power BI" />
         <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019--v1.png" width="48" alt="Microsoft Excel" />
       </td>
     </tr>
