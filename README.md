@@ -4,9 +4,16 @@
 </p>
 
 <p align="center">
-  <span style="vertical-align: middle; font-size: 200px;">👁️</span>
-  <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile Views Counter" style="vertical-align: middle; margin-left: 8px;" />
+  <table align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="middle" style="font-size:22px;">👁️</td>
+      <td valign="middle" style="padding-left:8px;">
+        <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile Views Counter" />
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 ---
 
