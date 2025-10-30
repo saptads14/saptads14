@@ -67,7 +67,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ### ☁️ Cloud & Deployment Tools  
 <p align="center" style="margin-top: -10px;">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,streamlit,github,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,github,docker,streamlit" />
 </p>
 
 
