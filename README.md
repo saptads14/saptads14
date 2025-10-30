@@ -93,7 +93,8 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
     <tr>
       <td><b>☁️ Cloud & Deployment Tools</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=aws,vercel,github,docker,streamlit" />
+        <img src="https://skillicons.dev/icons?i=aws,vercel,github,docker" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
       </td>
     </tr>
   </table>
