@@ -16,10 +16,14 @@
 
 ---
 
-# 🫠 **Saptadeep Halder**
-🎓 **B.Tech in Computer Science and Engineering (Data Science)**  
-📍 *The Neotia University, West Bengal, India*  
-📅 *2022 – 2026*  
+<h1 align="center">🫠 <b>Saptadeep Halder</b></h1>
+
+<p align="center">
+  🎓 <b>B.Tech in Computer Science and Engineering (Data Science)</b><br>
+  📍 <i>The Neotia University, West Bengal, India</i><br>
+  📅 <b>2022 – 2026</b>
+</p>
+
 
 ---
 
