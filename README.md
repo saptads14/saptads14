@@ -3,20 +3,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Saptadeep+Halder;Aspiring+Data+Scientist+💻;Machine+Learning+%7C+Deep+Learning+Enthusiast+🤖;Full+Stack+Developer+🌐;Passionate+about+AI+%26+Innovation+🚀" alt="Typing Animation" />
 </p>
 
+<!-- PROFILE TRAFFIC -->
 <p align="center">
-  <table align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse; margin: 0 auto;">
+  <table align="center" style="border-collapse: collapse; margin: 0 auto; border-spacing: 0;">
     <tr>
-      <td valign="middle" style="font-size:22px; padding: 0 6px;">👁️</td>
-      <td valign="middle" style="padding: 0;">
-        <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&style=for-the-badge&color=00C9FF" alt="Profile Views Counter" style="border-radius:8px; background: linear-gradient(90deg,#00C9FF,#92FE9D);" />
+      <td style="font-size:22px; padding-right:8px; vertical-align:middle;">👁️</td>
+      <td style="padding: 0; vertical-align:middle;">
+        <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&style=for-the-badge&color=gradient" alt="Profile Views Counter" style="border-radius:8px; background: linear-gradient(90deg, #00C9FF, #92FE9D);" />
       </td>
     </tr>
   </table>
 </p>
-
-
-
-
 
 ---
 
@@ -130,15 +127,15 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ---
 
-## ⚙️ **GitHub Stats**
+## ⚙️ **GitHub Stats (Animated & Gradient Style)**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saptads14&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saptads14&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saptads14&show_icons=true&theme=radical&bg_color=0,00C9FF,92FE9D&title_color=ffffff&text_color=ffffff&icon_color=ffde59&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saptads14&theme=radical&background=90,00C9FF,92FE9D&ring=ffffff&fire=ffde59&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=12" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptads14&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptads14&layout=compact&theme=radical&bg_color=0,00C9FF,92FE9D&title_color=ffffff&text_color=ffffff&hide_border=true&border_radius=12" height="165" />
 </p>
 
 ---
