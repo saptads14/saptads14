@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&color=ff69b4&style=for-the-badge" alt="👁️ Profile Traffic" />
 </p>
 
 ---
