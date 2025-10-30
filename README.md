@@ -1,6 +1,6 @@
 <!-- 🌟 PROFILE HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Saptadeep+Halder;Aspiring+Data+Scientist+💻;Machine+Learning+%7C+Deep+Learning+Enthusiast+🤖;Passionate+about+Big Data+AI+%26+Innovation+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Saptadeep+Halder;Aspiring+Data+Scientist+💻;Machine+Learning+%7C+Deep+Learning+Enthusiast+🤖;Passionate+about+BigData+AI+%26+Innovation+🚀" alt="Typing Animation" />
 </p>
 
 <!-- 👁️ LIVE VISITOR COUNTER -->
