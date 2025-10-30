@@ -36,7 +36,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ### 💻 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,r,c,html,css,javascript,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,r,c" />
 </p>
 
 ---
@@ -66,7 +66,8 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ### ☁️ Cloud & Deployment Tools  
 <p align="center" style="margin-top: -10px;">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,streamlit,github,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,github,docker" />
+  <img src="https://skillicons.dev/icons?i=streamlit" />
 </p>
 
 ---
