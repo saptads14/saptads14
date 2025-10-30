@@ -8,11 +8,12 @@
     <tr>
       <td valign="middle" style="font-size:22px;">👁️</td>
       <td valign="middle" style="padding-left:8px;">
-        <img src="https://img.shields.io/badge/Profile%20Views-1200+-blueviolet?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=8A2BE2" alt="Profile Views Counter" />
+        <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&color=0D8BFF&style=for-the-badge" alt="Profile Views Counter" style="background: linear-gradient(90deg, #00C9FF, #92FE9D);" />
       </td>
     </tr>
   </table>
 </p>
+
 
 
 
