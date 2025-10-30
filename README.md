@@ -3,13 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Saptadeep+Halder;Aspiring+Data+Scientist+💻;Machine+Learning+%7C+Deep+Learning+Enthusiast+🤖;Full+Stack+Developer+🌐;Passionate+about+AI+%26+Innovation+🚀" alt="Typing Animation" />
 </p>
 
-<!-- PROFILE TRAFFIC -->
 <p align="center">
-  <table align="center" style="border-collapse: collapse; margin: 0 auto; border-spacing: 0;">
+  <table align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse; margin: 0 auto;">
     <tr>
-      <td style="font-size:22px; padding-right:8px; vertical-align:middle;">👁️</td>
-      <td style="padding: 0; vertical-align:middle;">
-        <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&style=for-the-badge&color=gradient" alt="Profile Views Counter" style="border-radius:8px; background: linear-gradient(90deg, #00C9FF, #92FE9D);" />
+      <td valign="middle" style="font-size:22px; padding: 0 6px;">👁️</td>
+      <td valign="middle" style="padding: 0;">
+        <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&style=for-the-badge&color=gradient" alt="Profile Views Counter" style="border-radius:8px; background: linear-gradient(90deg,#00C9FF,#92FE9D);" />
       </td>
     </tr>
   </table>
@@ -52,7 +51,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 ### ⚙️ Backend Development  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,flask" />
-  <img src="https://img.shields.io/badge/REST-API-orange?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSocket-0078D7?style=for-the-badge&logo=websocket&logoColor=white" />
 </p>
 
@@ -67,8 +66,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ### ☁️ Cloud & Deployment Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,streamlit,github" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,streamlit,github,docker" />
 </p>
 
 ---
@@ -90,7 +88,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 ---
@@ -127,15 +125,15 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ---
 
-## ⚙️ **GitHub Stats (Animated & Gradient Style)**  
+## ⚙️ **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saptads14&show_icons=true&theme=radical&bg_color=0,00C9FF,92FE9D&title_color=ffffff&text_color=ffffff&icon_color=ffde59&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saptads14&theme=radical&background=90,00C9FF,92FE9D&ring=ffffff&fire=ffde59&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=12" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saptads14&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saptads14&theme=radical&hide_border=false&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptads14&layout=compact&theme=radical&bg_color=0,00C9FF,92FE9D&title_color=ffffff&text_color=ffffff&hide_border=true&border_radius=12" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptads14&theme=radical&layout=donut&langs_count=8&hide_border=false" height="165" />
 </p>
 
 ---
