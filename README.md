@@ -8,7 +8,7 @@
     <tr>
       <td valign="middle" style="font-size:22px; padding: 0 6px;">👁️</td>
       <td valign="middle" style="padding: 0;">
-        <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&style=for-the-badge&color=gradient" alt="Profile Views Counter" style="border-radius:8px; background: linear-gradient(90deg,#00C9FF,#92FE9D);" />
+        <img src="https://visitcount.itsvg.in/api?id=saptads14&label=Profile+Visitors&color=12c2e9&icon=2&pretty=true" alt="Live Visitor Counter" style="border-radius:8px;" />
       </td>
     </tr>
   </table>
@@ -64,12 +64,10 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ---
 
-
 ### ☁️ Cloud & Deployment Tools  
 <p align="center" style="margin-top: -10px;">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,github,docker,streamlit" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,streamlit,github,docker" />
 </p>
-
 
 ---
 
@@ -130,12 +128,12 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 ## ⚙️ **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saptads14&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saptads14&theme=radical&hide_border=false&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saptads14&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saptads14&theme=radical&hide_border=false&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptads14&theme=radical&layout=donut&langs_count=8&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptads14&theme=radical&layout=donut&langs_count=8&hide_border=false&bg_color=0D1117" height="200" />
 </p>
 
 ---
