@@ -12,13 +12,13 @@
 # 🌟 **Saptadeep Halder**
 🎓 **B.Tech in Computer Science and Engineering (Data Science)**  
 📍 *The Neotia University, West Bengal, India*  
-📅 *2021 – 2025 (Expected Graduation)*  
+📅 *2022 – 2026*  
 
 ---
 
 ## 👨‍💻 **About Me**
 Hi there! I'm **Saptadeep Halder**, a passionate **Computer Science Engineer specializing in Data Science**.  
-I love building intelligent systems using **Machine Learning**, **Deep Learning**, and **Web Technologies**.  
+I love developing intelligent systems using **Machine Learning**, **Deep Learning**, and **Web Technologies**.  
 My goal is to bridge the gap between **data and decisions**, creating impactful solutions through technology.  
 
 ---
@@ -26,21 +26,27 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 ## 🧠 **Technical Skills**
 
 ### 💻 Programming Languages  
-`Python` | `Java` | `R` | `C` | `HTML` | `CSS` | `JavaScript` | `SQL`
+`Python` | `Java` | `R` | `C` | `SQL`
 
-### 📊 Data Science & Machine Learning  
-Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn  
-TensorFlow | Keras | PyTorch  
-OpenCV | CNN | LSTM | Transformers  
-Data Cleaning | Visualization | Feature Engineering  
+### 🎨 Frontend Development  
+`HTML5` | `CSS3` | `Bootstrap` | `JavaScript`
 
-### 🌐 Web Development  
-**Backend:** Django  
-**Frontend:** HTML5, CSS3, Bootstrap, JavaScript  
-**Other:** REST API | WebSocket | Chart.js  
+### ⚙️ Backend Development  
+`Django` | `REST Framework` | `WebSocket` | `Flask (Basics)`
 
-### ☁️ Tools & Platforms  
-Git | GitHub | VS Code | Jupyter Notebook | Google Colab | Anaconda | Postman | MySQL | SQLite  
+### 🗃️ Databases  
+`PostgreSQL` | `SQLite`
+
+### ☁️ Cloud & Deployment Tools  
+`Render` | `Vercel` | `AWS (Basics)` | `GitHub Pages` | `Streamlit`
+
+### 🧩 Python Libraries & Frameworks  
+`NumPy` | `Pandas` | `Matplotlib` | `Seaborn` | `Scikit-learn`  
+`TensorFlow` | `PyTorch`
+
+### 🧰 Software Tools & IDEs  
+`Git` | `GitHub` | `VS Code` | `Jupyter Notebook` | `Google Colab`  
+`Anaconda`
 
 ---
 
@@ -83,17 +89,7 @@ Git | GitHub | VS Code | Jupyter Notebook | Google Colab | Anaconda | Postman | 
 ---
 
 ## 🏆 **Achievements**
-- 🥈 Finalist — *HackXelerate Hackathon 2025* (*Team Data Titans*)  
-- 📰 Published Article with **Rajib Mondal**, recognized by **The Neotia University Faculty**  
-- 💡 Developed multiple **IoT + AI integrated** projects  
-
----
-
-## 📜 **Certifications**
-- Machine Learning with Python — *Coursera / IBM*  
-- Deep Learning Specialization — *DeepLearning.AI*  
-- Django Web Development — *Udemy*  
-- Data Visualization with Python — *Coursera*  
+- 🥈 Finalist — *HackXelerate Hackathon 2025* (*Team Data Titans*)   
 
 ---
 
