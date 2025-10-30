@@ -96,7 +96,8 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 ---
 
 ## 🏆 **Achievements**
-- 🥈 Finalist — *HackXelerate Hackathon 2025* (*Team Data Titans*)  
+- 🥈 National-Level Hackathon Finalist – HackXelerate ’25 (*Team Data Titans*)
+- Secured a place among the top finalists out of 600+ teams and 900+ participants nationwide with Team Data Titans.
 
 ---
 
