@@ -11,7 +11,7 @@
         <span style="font-size: 22px;">👁️</span>
       </td>
       <td align="center" style="border: none; padding-left: 10px;">
-        <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&style=for-the-badge&color=cream" alt="Profile Traffic"/>
+        <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&style=for-the-badge&color=blue" alt="Profile Traffic"/>
       </td>
     </tr>
   </table>
