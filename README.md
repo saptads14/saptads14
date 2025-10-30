@@ -1,22 +1,12 @@
-<!-- PROFILE HEADER -->
+<!-- 🌟 PROFILE HEADER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Saptadeep+Halder;Aspiring+Data+Scientist+💻;Machine+Learning+%7C+Deep+Learning+Enthusiast+🤖;Full+Stack+Developer+🌐;Passionate+about+AI+%26+Innovation+🚀" alt="Typing Animation" />
 </p>
 
-<!-- LIVE VISITOR COUNTER -->
+<!-- 👁️ LIVE VISITOR COUNTER -->
 <p align="center">
-  <table align="center" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        <span style="font-size: 22px;">👁️</span>
-      </td>
-      <td align="center" style="border: none; padding-left: 10px;">
-        <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Traffic&style=for-the-badge&color=red" alt="Profile Traffic"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Visitors&style=for-the-badge&color=0E75B6&logo=github" alt="Profile Visitors" />
 </p>
-
 
 ---
 
@@ -39,7 +29,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ## 🧠 **Technical Skills**
 
-<!-- 💻 Programming Languages -->
+<!-- 💻 PROGRAMMING LANGUAGES -->
 <div align="center">
   <table>
     <tr>
@@ -53,7 +43,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ---
 
-<!-- 🎨 Frontend Development -->
+<!-- 🎨 FRONTEND DEVELOPMENT -->
 <div align="center">
   <table>
     <tr>
@@ -67,7 +57,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ---
 
-<!-- ⚙️ Backend Development -->
+<!-- ⚙️ BACKEND DEVELOPMENT -->
 <div align="center">
   <table>
     <tr>
@@ -83,7 +73,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ---
 
-<!-- 🗃️ Databases -->
+<!-- 🗃️ DATABASES -->
 <div align="center">
   <table>
     <tr>
@@ -98,16 +88,22 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 ---
 
 <!-- 📊 DATA VISUALIZATION TOOLS -->
-<h3 align="center">📊 Data Visualization Tools</h3>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="90" alt="Tableau"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70" alt="Power BI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" width="55" alt="Microsoft Excel"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><b>📊 Data Visualization Tools</b></td>
+      <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="90" alt="Tableau"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70" alt="Power BI"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" width="55" alt="Microsoft Excel"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-<!-- ☁️ Cloud & Deployment -->
+<!-- ☁️ CLOUD & DEPLOYMENT -->
 <div align="center">
   <table>
     <tr>
@@ -122,7 +118,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ---
 
-<!-- 🧩 Python Libraries -->
+<!-- 🧩 PYTHON LIBRARIES -->
 <div align="center">
   <table>
     <tr>
@@ -142,7 +138,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ---
 
-<!-- 🧰 Software Tools -->
+<!-- 🧰 SOFTWARE TOOLS -->
 <div align="center">
   <table>
     <tr>
@@ -151,7 +147,6 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
         <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
         <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
       </td>
     </tr>
   </table>
@@ -208,7 +203,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ---
 
-<!-- THANK YOU SECTION -->
+<!-- 🤝 THANK YOU SECTION -->
 <div align="center">
 
   <h3>🤝 Thanks for Visiting My Profile! 🤝</h3>
@@ -218,6 +213,5 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
   <br><br>
 
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="140" alt="Waving hand animation" />
-
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" alt="Rocket Animation"/>
 </div>
-
