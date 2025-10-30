@@ -97,6 +97,16 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ---
 
+<!-- 📊 DATA VISUALIZATION TOOLS -->
+<h3 align="center">📊 Data Visualization Tools</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="90" alt="Tableau"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70" alt="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" width="55" alt="Microsoft Excel"/>
+</p>
+
+---
+
 <!-- ☁️ Cloud & Deployment -->
 <div align="center">
   <table>
