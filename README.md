@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <span style="vertical-align: middle; font-size: 22px;">👁️</span>
+  <span style="vertical-align: middle; font-size: 200px;">👁️</span>
   <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile Views Counter" style="vertical-align: middle; margin-left: 8px;" />
 </p>
 
