@@ -59,7 +59,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ### 🗃️ Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mongodb" />
 </p>
 
 ---
