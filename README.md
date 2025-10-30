@@ -44,7 +44,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 ---
 
 <!-- 🎨 FRONTEND DEVELOPMENT -->
-<div align="center">
+<div>
   <table>
     <tr>
       <td><b>🎨 Frontend Development</b></td>
@@ -74,7 +74,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 ---
 
 <!-- 🗃️ DATABASES -->
-<div align="center">
+<div>
   <table>
     <tr>
       <td><b>🗃️ Databases</b></td>
@@ -104,7 +104,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 ---
 
 <!-- ☁️ CLOUD & DEPLOYMENT -->
-<div align="center">
+<div>
   <table>
     <tr>
       <td><b>☁️ Cloud & Deployment Tools</b></td>
@@ -139,7 +139,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 ---
 
 <!-- 🧰 SOFTWARE TOOLS -->
-<div align="center">
+<div>
   <table>
     <tr>
       <td><b>🧰 Software Tools & IDEs</b></td>
