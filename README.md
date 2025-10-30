@@ -30,7 +30,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 ## 🧠 **Technical Skills**
 
 <!-- 💻 PROGRAMMING LANGUAGES -->
-<div align="center">
+<div>
   <table>
     <tr>
       <td><b>💻 Programming Languages</b></td>
