@@ -25,36 +25,48 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ## 🧠 **Technical Skills**
 
+---
+
 ### 💻 Programming Languages  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,r,c,html,css,javascript,sql" />
 </p>
 
+---
+
 ### 🎨 Frontend Development  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
 </p>
 
+---
+
 ### ⚙️ Backend Development  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=django,flask" />
   <img src="https://img.shields.io/badge/REST-API-orange?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSocket-0078D7?style=for-the-badge&logo=websocket&logoColor=white" />
 </p>
 
+---
+
 ### 🗃️ Databases  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql" />
 </p>
 
+---
+
 ### ☁️ Cloud & Deployment Tools  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,vercel,render,github" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
+---
+
 ### 🧩 Python Libraries & Frameworks  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=plotly&logoColor=white" />
@@ -64,8 +76,10 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
+---
+
 ### 🧰 Software Tools & IDEs  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
@@ -131,9 +145,13 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 <h3 align="center">🤝 Thanks for Visiting My Profile! 🤝</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" alt="Handshake animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhsOTQ1d2tjdWZwN3JhczhkcDNsM2o4YjdjOTZyNGRrbTNvdTBmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif" width="140" alt="Waving hand animation" />
 </p>
 
 <p align="center">
   <b>✨ Keep Coding | Keep Learning | Keep Growing ✨</b>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" alt="Rocket Animation"/>
 </p>
