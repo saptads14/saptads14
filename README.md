@@ -70,7 +70,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ### ☁️ Cloud & Deployment Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,render,github" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,streamlit,github" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
