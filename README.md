@@ -58,7 +58,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 ---
 
 <!-- ⚙️ BACKEND DEVELOPMENT -->
-<div align="center">
+<div>
   <table>
     <tr>
       <td><b>⚙️ Backend Development</b></td>
@@ -88,7 +88,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 ---
 
 <!-- 📊 DATA VISUALIZATION TOOLS -->
-<div align="center">
+<div>
   <table>
     <tr>
       <td><b>📊 Data Visualization Tools</b></td>
@@ -119,7 +119,7 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 ---
 
 <!-- 🧩 PYTHON LIBRARIES -->
-<div align="center">
+<div>
   <table>
     <tr>
       <td><b>🧩 Python Libraries & Frameworks</b></td>
