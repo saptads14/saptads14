@@ -4,8 +4,17 @@
 </p>
 
 <!-- 👁️ LIVE VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Visitors&style=for-the-badge&color=0E75B6&logo=github" alt="Profile Visitors" />
+<p align="center"> 
+<table align="center" style="border-collapse: collapse; border: none;"> 
+  <tr> 
+    <td align="center" style="border: none;"> 
+      <span style="font-size: 22px;">👁️</span> 
+    </td> 
+    <td align="center" style="border: none; padding-left: 10px;"> 
+      <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Traffic&style=for-the-badge&color=red" alt="Profile Traffic"/> 
+    </td> 
+  </tr> 
+</table> 
 </p>
 
 ---
