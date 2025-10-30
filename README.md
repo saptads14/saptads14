@@ -50,44 +50,6 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ---
 
-## 🚀 **Featured Projects**
-
-### 🩺 ECGenius — *Real-Time ECG Monitoring System*
-- Built a **Django-based web dashboard** for real-time ECG signal visualization using **ESP32 + AD8232**.  
-- Integrated **WebSocket streaming**, **Chart.js** for live graphs, and **CNN/LSTM models** for heart rhythm analysis.  
-- Designed a **responsive, modern UI** with dark/light themes.  
-🛠 *Tech:* Django, Python, WebSocket, Chart.js, ESP32, PyTorch  
-
----
-
-### 🧠 Brain Tumor Classification using VGG16
-- Developed a **Deep Learning model** based on **VGG16** for MRI brain tumor detection.  
-- Utilized **data augmentation**, **fine-tuning**, and **transfer learning** for high accuracy.  
-🛠 *Tech:* Python, TensorFlow, Keras, OpenCV  
-
----
-
-### 🛒 FLIZON — E-Commerce Store
-- A full-featured online store using **Django + Bootstrap**.  
-- Includes categories, wishlist, cart, and checkout functionalities.  
-- Enhanced UI with shadows, hover effects, and gradient buttons.  
-🛠 *Tech:* Django, HTML, CSS, Bootstrap, JavaScript  
-
----
-
-## 🧩 **Academic Projects**
-- **Hybrid ViT-CNN for Camouflaged Object Detection** — Vision Transformer + CNN hybrid model for object classification.  
-- **Linear Regression from Scratch** — Implemented gradient descent manually in Python and visualized results.  
-
----
-
-## 🧑‍💼 **Internship Experience**
-**Data Science Intern (1.5+ Years Experience)**  
-- Worked on real-world ML applications, predictive analytics, and visualization.  
-- Built scalable ML pipelines and improved model efficiency.  
-
----
-
 ## 🏆 **Achievements**
 - 🥈 Finalist — *HackXelerate Hackathon 2025* (*Team Data Titans*)   
 
