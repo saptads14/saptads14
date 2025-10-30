@@ -208,7 +208,6 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
   <br><br>
 
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="140" alt="Waving hand animation" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" alt="Rocket Animation"/>
 
 </div>
 
