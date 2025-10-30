@@ -4,15 +4,16 @@
 </p>
 
 <p align="center">
-  <table align="center" cellpadding="0" cellspacing="0">
+  <table align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse; margin: 0 auto;">
     <tr>
-      <td valign="middle" style="font-size:22px;">👁️</td>
-      <td valign="middle" style="padding-left:8px;">
-        <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&color=0D8BFF&style=for-the-badge" alt="Profile Views Counter" style="background: linear-gradient(90deg, #00C9FF, #92FE9D);" />
+      <td valign="middle" style="font-size:22px; padding: 0 6px;">👁️</td>
+      <td valign="middle" style="padding: 0;">
+        <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&style=for-the-badge&color=00C9FF" alt="Profile Views Counter" style="border-radius:8px; background: linear-gradient(90deg,#00C9FF,#92FE9D);" />
       </td>
     </tr>
   </table>
 </p>
+
 
 
 
