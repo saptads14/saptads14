@@ -9,7 +9,7 @@
 
 ---
 
-# 🌟 **Saptadeep Halder**
+# 🫠 **Saptadeep Halder**
 🎓 **B.Tech in Computer Science and Engineering (Data Science)**  
 📍 *The Neotia University, West Bengal, India*  
 📅 *2022 – 2026*  
