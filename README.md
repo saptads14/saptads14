@@ -5,8 +5,18 @@
 
 <!-- LIVE VISITOR COUNTER -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=saptads14&label=👁️+Profile+Visitors&color=12c2e9&icon=5&pretty=true" alt="Live Visitor Counter" style="border-radius:12px;" />
+  <table align="center" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" style="border: none;">
+        <span style="font-size: 22px;">👁️</span>
+      </td>
+      <td align="center" style="border: none; padding-left: 10px;">
+        <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&style=for-the-badge&color=gradient" alt="Profile Traffic"/>
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 ---
 
