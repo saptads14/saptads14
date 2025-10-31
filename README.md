@@ -206,11 +206,6 @@ My goal is to bridge the gap between **data and decisions**, creating impactful 
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding animation"/>
-</p>
-
----
 
 <!-- 🤝 THANK YOU SECTION -->
 <div align="center">
