@@ -30,9 +30,7 @@
 ---
 
 ## 👨‍💻 **About Me**
-Hi there! I'm **Saptadeep Halder**, a passionate **Computer Science Engineer specializing in Data Science**.  
-I love developing intelligent systems using **Machine Learning**, **Deep Learning**, and **Web Technologies**.  
-My goal is to bridge the gap between **data and decisions**, creating impactful solutions through technology.  
+Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation Testing**, **Manual Testing**, and **API Testing**. I focus on delivering high-quality, reliable software by identifying defects early and ensuring seamless user experiences. With a background in Data Science, I bring strong analytical thinking and a detail-oriented approach to quality assurance. 
 
 ---
 
