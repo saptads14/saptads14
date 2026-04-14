@@ -86,7 +86,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
     <tr>
       <td><b>🗃️ Databases</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mongodb" />
+        <img src="https://skillicons.dev/icons?i=oraclesql,postgresql,sqlite,mongodb" />
       </td>
     </tr>
   </table>
