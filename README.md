@@ -42,7 +42,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
     <tr>
       <td><b>💻 Programming Languages</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=python,java,r,c" />
+        <img src="https://skillicons.dev/icons?i=java,python,r,c" />
       </td>
     </tr>
   </table>
