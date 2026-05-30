@@ -119,7 +119,8 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
     <tr>
       <td><b>☁️ Cloud & Deployment Tools</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=aws,vercel,github,render,docker" />
+        <img src="https://skillicons.dev/icons?i=aws,vercel,github,docker" />
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
       </td>
     </tr>
