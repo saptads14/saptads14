@@ -87,9 +87,9 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
       <td><b>🗃️ Databases</b></td>
       <td>
         <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mongodb" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" style="vertical-align: middle;" />
-</p>
+          <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mongodb" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" style="vertical-align: middle;" />
+        </p>
       </td>
     </tr>
   </table>
@@ -119,7 +119,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
     <tr>
       <td><b>☁️ Cloud & Deployment Tools</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=aws,vercel,github,docker" />
+        <img src="https://skillicons.dev/icons?i=aws,vercel,github,render,docker" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
       </td>
     </tr>
