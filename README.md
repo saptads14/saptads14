@@ -221,7 +221,9 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 > “Data is the new oil, but intelligence is the new power.” ⚡  
 
 ---
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saptads14&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
 
 <!-- 🤝 THANK YOU SECTION -->
 <div align="center">
