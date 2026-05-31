@@ -209,32 +209,30 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 <div align="center">
 
 <a href="mailto:saptadeephalder2004@gmail.com">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Email" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" width="64" />
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/saptadeep-halder04/">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="64" />
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/saptads14">
-  <img src="https://user-images.githubusercontent.com/74038190/216656986-e9fbb8f8-4e3a-4f8f-a6d0-4d7e4e0f0e2c.gif" alt="GitHub" width="60" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="64" />
 </a>
+
 <br>
+
+<b>📧 Email</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>💼 LinkedIn</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>💻 GitHub</b>
+
+<br><br>
 
 <h3>🤝 Thanks for Visiting My Profile! 🤝</h3>
+
 <b>😎 Keep Coding • Keep Learning • Keep Growing 😎</b>
-<br>
 
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
-   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="500">
-     <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500">
-      <img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8f32-4224-8b6d-60eec6c2bf67.gif" width="700">
-      <img src="https://user-images.githubusercontent.com/74038190/216655848-e5b7d3a4-4f1f-4c7f-b1d4-3efc54186f3c.gif" width="700">
 </div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2CBF,100:FF007F&height=120&section=footer&animation=twinkling"/>
