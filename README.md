@@ -20,7 +20,6 @@
 </table> 
 </p>
 
-
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
 
 <h1 align="center">
