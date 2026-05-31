@@ -2,30 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00E5FF,50:7B2CBF,100:FF007F&text=Saptadeep%20Halder&fontSize=42&fontColor=FFFFFF&fontAlignY=35&fontAlign=50&animation=twinkling&desc=QA%20Automation%20Engineer%20|%20SDET%20Aspirant&descAlignY=58&descAlign=50&descSize=18"/>
 
-<!-- 👨‍💻 PROFILE AVATAR -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212259472-b30742fb-19dd-4258-80bf-05a56c9a352c.png" width="180"/>
-</p>
-
 <!-- ✨ TYPING ANIMATION -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=950&lines=👋+Hi,+I'm+Saptadeep+Halder;🧪+QA+Automation+Engineer;🚀+Future+SDET;💻+Java+%7C+Selenium+%7C+TestNG;🔗+API+Testing+%7C+Postman+%7C+REST+Assured;🐞+Finding+Bugs+Before+Users+Do;⚡+Building+Reliable+Software+Solutions" />
-</p>
-
-<!-- 🌐 SOCIAL BADGES -->
-
-<p align="center">
-  <a href="mailto:saptadeephalder2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/saptadeep-halder04/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/saptads14">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 <!-- 👁️ PROFILE VIEWS -->
@@ -56,7 +36,10 @@
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
 
-<h1 align="center">🫠 <b>Saptadeep Halder</b></h1>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212259472-b30742fb-19dd-4258-80bf-05a56c9a352c.png" width="100" style="border-radius: 50%; box-shadow: 0px 8px 15px rgba(0, 229, 255, 0.5); margin-right: 20px; vertical-align: middle;" alt="Saptadeep Halder Avatar"/>
+  🫠 <b>Saptadeep Halder</b>
+</h1>
 
 <p align="center">
   🎓 <b>B.Tech in Computer Science and Engineering (Data Science)</b><br>
@@ -236,6 +219,9 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 ## 🌐 Let's Connect!
 
 <div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="150" style="margin-bottom: 10px;" />
+
 <p>
   <a href="mailto:saptadeephalder2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -259,7 +245,6 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
      <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500">
       <img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8f32-4224-8b6d-60eec6c2bf67.gif" width="700">
       <img src="https://user-images.githubusercontent.com/74038190/216655848-e5b7d3a4-4f1f-4c7f-b1d4-3efc54186f3c.gif" width="700">
-</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2CBF,100:FF007F&height=120&section=footer&animation=twinkling"/>
