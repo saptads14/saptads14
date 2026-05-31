@@ -199,35 +199,28 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 
 <!-- 🤝 THANK YOU SECTION -->
 
-<div align="center">
-
 ## 🌐 Let's Connect!
 
+<div align="center">
 <p>
   <a href="mailto:saptadeephalder2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/saptadeep-halder04/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://github.com/saptads14">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 <br>
 
 <h3>🤝 Thanks for Visiting My Profile! 🤝</h3>
-
 <b>😎 Keep Coding • Keep Learning • Keep Growing 😎</b>
-
-<br><br>
+<br>
 
 <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="120" alt="Waving Hand" />
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="130" alt="Rocket" />
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2CBF,100:FF007F&height=120&section=footer&animation=twinkling"/>
