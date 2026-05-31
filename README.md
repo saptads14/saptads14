@@ -6,16 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Saptadeep+Halder;💻+Aspiring+SDET;🧪+Automation+Testing+%7C+Manual+Testing;🔗+API+Testing+%7C+Selenium;🐞+Passionate+About+Finding+Bugs;🚀+Building+Reliable+Software+Solutions" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&color=00E5FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/saptads14?style=for-the-badge&color=00E5FF" />
-  <img src="https://img.shields.io/github/stars/saptads14?style=for-the-badge&color=00E5FF" />
-</p>
-
 <!-- 👁️ LIVE VISITOR COUNTER -->
 <p align="center"> 
 <table align="center" style="border-collapse: collapse; border: none;"> 
