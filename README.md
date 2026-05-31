@@ -1,5 +1,15 @@
 <!-- 🌌 ANIMATED HERO BANNER -->
+<!-- 🌌 HERO BANNER -->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,50:7B2CBF,100:FF007F&text=Saptadeep%20Halder&fontSize=30&fontColor=FFFFFF&fontAlignY=35&fontAlign=50&animation=fadeIn&desc=QA%20Automation%20Engineer%20|%20SDET%20Aspirant&descAlignY=60&descAlign=50&descSize=15"/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212259472-b30742fb-19dd-4258-80bf-05a56c9a352c.png" width="180">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Saptadeep+Halder;🧪+QA+Automation+Engineer;🚀+Future+SDET;🔗+API+Testing+%7C+Selenium;🐞+Finding+Bugs+Before+Users+Do;⚡+Building+Reliable+Software+Solutions" />
+</p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,50:7B2CBF,100:FF007F&text=Saptadeep%20Halder&fontSize=30&fontColor=FFFFFF&fontAlignY=35&fontAlign=50&animation=twinkling&desc=QA%20Automation%20Engineer%20|%20SDET%20Aspirant&descAlignY=60&descAlign=50&descSize=15&fontStyle=Mali"/>
 
 <p align="center">
