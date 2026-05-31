@@ -202,29 +202,23 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
 
-<!-- 🤝 THANK YOU SECTION -->
-
 ## 🌐 Let's Connect!
 
+<p align="center">
+  <a href="mailto:saptadeephalder2004@gmail.com">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Email" width="64" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/saptadeep-halder04/">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="64" />
+  </a>
+  
+  <a href="https://github.com/saptads14">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="64" />
+  </a>
+</p>
+
 <div align="center">
-
-<a href="mailto:saptadeephalder2004@gmail.com">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Email" width="64" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/saptadeep-halder04/">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="64" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/saptads14">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="64" />
-</a>
-
-<br><br>
 
 <h3>🤝 Thanks for Visiting My Profile! 🤝</h3>
 
@@ -234,11 +228,11 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 
 <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="180" alt="Testing Animation"/>
 
-&nbsp;&nbsp;
-
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180" alt="Bug Hunting"/>
 
-&nbsp;&nbsp;
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="320" alt="Programming"/>
+
+</div>
 
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="320" alt="Programming"/>
 
