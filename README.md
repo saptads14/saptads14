@@ -20,7 +20,7 @@
 </table> 
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=4&animation=twinkling" width="100%"></p>
 
 <h1 align="center">🫠 <b>Saptadeep Halder</b></h1>
 
@@ -30,12 +30,12 @@
   📅 <b>2022 – 2026</b>
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=4&animation=twinkling" width="100%"></p>
 
 ## 👨‍💻 **About Me**
 Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation Testing**, **Manual Testing**, and **API Testing**. I focus on delivering high-quality, reliable software by identifying defects early and ensuring seamless user experiences. With a background in Data Science, I bring strong analytical thinking and a detail-oriented approach to quality assurance. 
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=4&animation=twinkling" width="100%"></p>
 
 <h2 align="center">🧠 Technical Skills</h2>
 
@@ -44,10 +44,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 <br>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java" height="55"/>
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-<img src="https://skillicons.dev/icons?i=c" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="55"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,r" height="45"/>
 </p>
 
 </details>
@@ -59,19 +56,12 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 <br>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TestNG-E97627?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira"/>
-
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-E97627?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira"/>
 </p>
 
 </details>
@@ -83,15 +73,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 <br>
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="45"/>
 </p>
 
 </details>
@@ -103,15 +85,9 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 <br>
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60"/>
-
-<img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/WebSocket-0078D7?style=for-the-badge"/>
-
+  <img src="https://skillicons.dev/icons?i=django,flask" height="45" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/WebSocket-0078D7?style=for-the-badge" style="vertical-align: middle;" />
 </p>
 
 </details>
@@ -123,15 +99,8 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 <br>
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60"/>
-
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" height="45" style="vertical-align: middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" style="vertical-align: middle;"/>
 </p>
 
 </details>
@@ -143,13 +112,9 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 <br>
 
 <p align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="60"/>
-
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="60"/>
-
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="60"/>
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="35" style="margin: 0 10px;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="35" style="margin: 0 10px;"/>
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="35" style="margin: 0 10px;"/>
 </p>
 
 </details>
@@ -161,19 +126,9 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 <br>
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
-
-<img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" height="60"/>
-
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
+  <img src="https://skillicons.dev/icons?i=aws,docker,github,vercel" height="45" style="vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" style="vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" style="vertical-align: middle;"/>
 </p>
 
 </details>
@@ -185,19 +140,12 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 <br>
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="60"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60"/>
-
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
 </details>
@@ -209,37 +157,25 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 <br>
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60"/>
-
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-
+  <img src="https://skillicons.dev/icons?i=git,vscode,anaconda,jupyter" height="45" style="vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" style="vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" style="vertical-align: middle;"/>
 </p>
 
 </details>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=4&animation=twinkling" width="100%"></p>
 
 ## 🏆 **Achievements**
 - 🥈 National-Level Hackathon Finalist – HackXelerate ’25 (*Team Data Titans*)
 - Secured a place among the top finalists out of 600+ teams and 900+ participants nationwide.
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=4&animation=twinkling" width="100%"></p>
 
 ## 💬 **Soft Skills**
 🗣️ Communication | 💡 Problem Solving | 🤝 Teamwork | ⏰ Time Management | 👑 Leadership | 🎨 Creativity  
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=4&animation=twinkling" width="100%"></p>
 
 ## 🌍 **Connect with Me**
 <p align="center">
@@ -254,7 +190,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
   </a>
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=4&animation=twinkling" width="100%"></p>
 
 ## ⚙️ **GitHub Stats**
 <p align="center">
@@ -266,7 +202,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptads14&theme=radical&layout=donut&langs_count=8&bg_color=0D1117" height="200" />
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=4&animation=twinkling" width="100%"></p>
 
 ## 🎮 **Play With Me**
 
@@ -280,7 +216,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 
 </div>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=4&animation=twinkling" width="100%"></p>
 
 ## 🎲 **Random Dev Joke**
 
@@ -288,12 +224,12 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=4&animation=twinkling" width="100%"></p>
 
 ## ✨ **Quote I Live By**
-> “Data is the new oil, but intelligence is the new power.” ⚡  
+> "A bug caught in automation is a disaster avoided in production." ⚡  
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=4&animation=twinkling" width="100%"></p>
 
 <!-- 🤝 THANK YOU SECTION -->
 <div align="center">
