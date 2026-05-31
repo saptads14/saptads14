@@ -23,7 +23,27 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
 
 <!-- 👤 PROFILE SECTION -->
+<div align="center">
 
+<h1>
+  <img src="https://github.com/saptads14/saptads14/blob/main/Avatar?raw=true"
+       width="90"
+       alt="Saptadeep Halder Avatar"
+       align="center" />
+
+  &nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png"
+       width="28" />
+
+  Saptadeep Halder
+</h1>
+
+📚 <b>B.Tech in Computer Science & Engineering (Data Science)</b><br>
+🧭 <i>The Neotia University, West Bengal, India</i><br>
+📅 <b>2022 – 2026</b>
+
+</div>
 <div align="center">
 <h1>
   <img src="https://github.com/saptads14/saptads14/blob/main/Avatar?raw=true"
