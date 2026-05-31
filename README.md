@@ -207,12 +207,9 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 ## 🌐 Let's Connect!
 
 <div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="150" style="margin-bottom: 10px;" />
-
 <p>
   <a href="mailto:saptadeephalder2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" style="margin-bottom: 8px;" />
   </a>
   <a href="https://www.linkedin.com/in/saptadeep-halder04/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
