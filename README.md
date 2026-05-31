@@ -122,16 +122,6 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 </details>
 
 <details open>
-<summary><b>Data Formats & Datasets</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</p>
-</details>
-
-<details open>
 <summary><b>Tools & IDEs</b></summary>
 <br>
 <p align="center">
