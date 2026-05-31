@@ -221,9 +221,11 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 
 <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-4dc8f5cb-4b44-4f76-9a6f-cf547a8fbca4.gif" width="500"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212750117-1a8f4f9d-6e6c-44e5-b9a6-6d47a9282f16.gif" width="600">
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500">
+   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="500">
+     <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500">
+      <img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8f32-4224-8b6d-60eec6c2bf67.gif" width="700">
+      <img src="https://user-images.githubusercontent.com/74038190/216655848-e5b7d3a4-4f1f-4c7f-b1d4-3efc54186f3c.gif" width="700">
+</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2CBF,100:FF007F&height=120&section=footer&animation=twinkling"/>
