@@ -272,43 +272,21 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 
 <div align="center">
 
-### 🐍 Snake Game
-
-<img src="https://raw.githubusercontent.com/saptads14/saptads14/output/github-contribution-grid-snake-dark.svg" />
-
-<br><br>
-
 ### 🎯 Play Tic Tac Toe
 
 <a href="https://playtictactoe.org/">
   <img src="https://img.shields.io/badge/Play-TicTacToe-FF007F?style=for-the-badge&logo=gamejolt&logoColor=white">
 </a>
 
-<br><br>
-
-### 🕹️ Play Tetris
-
-<a href="https://tetris.com/play-tetris">
-  <img src="https://img.shields.io/badge/Play-Tetris-00E5FF?style=for-the-badge&logo=unity&logoColor=white">
-</a>
-
-<br><br>
-
-### 🚀 Space Invaders
-
-<a href="https://spaceinvaders.io/">
-  <img src="https://img.shields.io/badge/Play-Space_Invaders-7B2CBF?style=for-the-badge&logo=rocket&logoColor=white">
-</a>
-
-<br><br>
-
-### 🧩 Puzzle Challenge
-
-<a href="https://www.jigsawexplorer.com/">
-  <img src="https://img.shields.io/badge/Play-Puzzle-FFB703?style=for-the-badge&logo=puzzle&logoColor=black">
-</a>
-
 </div>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
+
+## 🎲 **Random Dev Joke**
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
 
