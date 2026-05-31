@@ -1,6 +1,6 @@
 <!-- 🌌 ANIMATED HERO BANNER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,50:7B2CBF,100:FF007F&text=Saptadeep%20Halder&fontSize=30&fontColor=FFFFFF&fontAlignY=35&fontAlign=50&animation=fadeIn&desc=QA%20Automation%20Engineer%20|%20SDET%20Aspirant&descAlignY=60&descAlign=50&descSize=15&fontStyle=Mali"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,50:7B2CBF,100:FF007F&text=Saptadeep%20Halder&fontSize=30&fontColor=FFFFFF&fontAlignY=35&fontAlign=50&animation=twinkling&desc=QA%20Automation%20Engineer%20|%20SDET%20Aspirant&descAlignY=60&descAlign=50&descSize=15&fontStyle=Mali"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Saptadeep+Halder;💻+Aspiring+SDET;🧪+Automation+Testing+%7C+Manual+Testing;🔗+API+Testing+%7C+Selenium;🐞+Passionate+About+Finding+Bugs;🚀+Building+Reliable+Software+Solutions" />
@@ -20,7 +20,7 @@
 </table> 
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
 
 <h1 align="center">🫠 <b>Saptadeep Halder</b></h1>
 
@@ -30,12 +30,12 @@
   📅 <b>2022 – 2026</b>
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
 
 ## 👨‍💻 **About Me**
 Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation Testing**, **Manual Testing**, and **API Testing**. I focus on delivering high-quality, reliable software by identifying defects early and ensuring seamless user experiences. With a background in Data Science, I bring strong analytical thinking and a detail-oriented approach to quality assurance. 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
 
 ## 🧠 **Technical Skills**
 
@@ -51,7 +51,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
   </table>
 </div>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
 
 <!-- 🎨 FRONTEND DEVELOPMENT -->
 <div>
@@ -65,7 +65,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
   </table>
 </div>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
 
 <!-- ⚙️ BACKEND DEVELOPMENT -->
 <div>
@@ -81,7 +81,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
   </table>
 </div>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
 
 <!-- 🗃️ DATABASES -->
 <div>
@@ -98,7 +98,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
   </table>
 </div>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
 
 <!-- 📊 DATA VISUALIZATION TOOLS -->
 <div>
@@ -114,7 +114,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
   </table>
 </div>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
 
 <!-- ☁️ CLOUD & DEPLOYMENT -->
 <div>
@@ -130,7 +130,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
   </table>
 </div>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
 
 <!-- 🧩 PYTHON LIBRARIES -->
 <div>
@@ -150,7 +150,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
   </table>
 </div>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
 
 <!-- 🧰 SOFTWARE TOOLS -->
 <div>
@@ -167,18 +167,18 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
   </table>
 </div>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
 
 ## 🏆 **Achievements**
 - 🥈 National-Level Hackathon Finalist – HackXelerate ’25 (*Team Data Titans*)
 - Secured a place among the top finalists out of 600+ teams and 900+ participants nationwide.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
 
 ## 💬 **Soft Skills**
 🗣️ Communication | 💡 Problem Solving | 🤝 Teamwork | ⏰ Time Management | 👑 Leadership | 🎨 Creativity  
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
 
 ## 🌍 **Connect with Me**
 <p align="center">
@@ -193,7 +193,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
   </a>
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
 
 ## ⚙️ **GitHub Stats**
 <p align="center">
@@ -205,12 +205,12 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptads14&theme=radical&layout=donut&langs_count=8&bg_color=0D1117" height="200" />
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
 
 ## ✨ **Quote I Live By**
 > “Data is the new oil, but intelligence is the new power.” ⚡  
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
 
 <!-- 🤝 THANK YOU SECTION -->
 <div align="center">
