@@ -13,7 +13,7 @@
       <span style="font-size: 22px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="35" height="35" /></span>
     </td> 
     <td align="center" style="border: none; padding-left: 10px;"> 
-      <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Traffic&style=for-the-badge&color=fcaf08" alt="Profile Traffic"/> 
+      <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Traffic&style=for-the-badge&logo=github&color=fcaf08" alt="Profile Traffic"/> 
     </td> 
   </tr> 
 </table> 
