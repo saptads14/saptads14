@@ -118,7 +118,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 </details>
 
 <details open>
-<summary><b>📊 Data Visualization</b></summary>
+<summary><b> Data Visualization</b></summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
