@@ -209,7 +209,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 <div align="center">
 <p>
   <a href="mailto:saptadeephalder2004@gmail.com">
-    
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" />
   </a>
   <a href="https://www.linkedin.com/in/saptadeep-halder04/">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" style="margin-bottom: 8px;" />
