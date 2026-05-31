@@ -1,5 +1,8 @@
 <!-- 🌌 ANIMATED HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00E5FF,50:7B2CBF,100:FF007F&text=Saptadeep%20Halder&fontSize=42&fontColor=FFFFFF&fontAlignY=35&fontAlign=50&animation=twinkling&desc=QA%20Automation%20Engineer%20|%20SDET%20Aspirant&descAlignY=58&descAlign=50&descSize=18"/>
+<!-- HEADER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00E5FF,25:4F46E5,50:7B2CBF,75:C026D3,100:FF007F&text=Saptadeep%20Halder&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=QA%20Automation%20Engineer%20|%20SDET%20Aspirant&descAlignY=58&descAlign=50&descSize=18"/>
+
 
 <p align="center" style="margin-top:-202px;">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=950&lines=👋+Hi,+I'm+Saptadeep+Halder;🧪+QA+Automation+Engineer;🚀+Future+SDET;💻+Java+%7C+Selenium+%7C+TestNG;🔗+API+Testing+%7C+Postman+%7C+REST+Assured;🐞+Finding+Bugs+Before+Users+Do;⚡+Building+Reliable+Software+Solutions"/>
