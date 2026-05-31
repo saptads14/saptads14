@@ -25,13 +25,6 @@
 <!-- 👤 PROFILE SECTION -->
 
 <div align="center">
-<h1>
-  <img src="https://github.com/saptads14/saptads14/blob/main/Avatar?raw=true" width="140" alt="Saptadeep Halder Avatar"/>
-  Saptadeep Halder
-</h1>
-
-<div align="center">
-
 <table>
 <tr>
 <td valign="middle">
