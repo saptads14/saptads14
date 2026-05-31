@@ -251,4 +251,4 @@ As a <b>Computer Science & Data Science</b> student, I bring strong analytical t
 </div>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0D1117,4:161B22,12:00F5FF,28:00E5FF,50:9D4EDD,72:FF4FD8,88:FF007F,96:161B22,100:0D1117&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=168&section=footer&color=0:0D1117,4:161B22,12:00F5FF,28:00E5FF,50:9D4EDD,72:FF4FD8,88:FF007F,96:161B22,100:0D1117&animation=twinkling"/>
