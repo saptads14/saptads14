@@ -32,7 +32,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> <b>B.Tech in Computer Science and Engineering (Data Science)</b><br>
   📍 <i>The Neotia University, West Bengal, India</i><br>
-  📅 <b>2022 – 2026</b>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Tear%20Off%20Calendar.webp" alt="Tear Off Calendar" width="25" height="25" /> <b>2022 – 2026</b>
 </p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
