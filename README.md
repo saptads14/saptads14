@@ -253,4 +253,6 @@ As a <b>Computer Science & Data Science</b> student, I bring strong analytical t
 <b>😎 Keep Coding • Keep Learning • Keep Growing 😎</b>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2CBF,100:FF007F&height=120&section=footer&animation=twinkling"/>
+<!-- FOOTER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00E5FF,25:4F46E5,50:7B2CBF,75:C026D3,100:FF007F&animation=twinkling"/>
