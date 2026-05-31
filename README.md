@@ -22,16 +22,31 @@
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
 
-<h1 align="center">
-  <img src="https://github.com/saptads14/saptads14/blob/main/Avatar" width="140" alt="Saptadeep Halder Avatar"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> <b>Saptadeep Halder</b>
+<!-- 👤 PROFILE SECTION -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> <b>B.Tech in Computer Science and Engineering (Data Science)</b><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Compass.webp" alt="Compass" width="25" height="25" /> <i>The Neotia University, West Bengal, India</i><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Tear%20Off%20Calendar.webp" alt="Tear Off Calendar" width="25" height="25" /> <b>2022 – 2026</b>
-</p>
+<div align="center">
+
+<img src="https://github.com/saptads14/saptads14/blob/main/Avatar?raw=true" width="140" alt="Saptadeep Halder Avatar"/>
+
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="28" />
+  Saptadeep Halder
 </h1>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" width="22" />
+<b>B.Tech in Computer Science & Engineering (Data Science)</b>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Compass.webp" width="22" />
+<i>The Neotia University, West Bengal, India</i>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Tear%20Off%20Calendar.webp" width="22" />
+<b>2022 – 2026</b>
+
+</div>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
 
