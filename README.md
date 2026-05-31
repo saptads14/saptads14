@@ -198,9 +198,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
 
 <!-- 🤝 THANK YOU SECTION -->
-<div align="center">
-
-  <h2>🌐 Let's Connect!</h2>
+## 🌐 **Let's Connect!**
   
   <p align="center">
     <a href="mailto:saptadeephalder2004@gmail.com">
