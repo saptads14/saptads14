@@ -25,11 +25,17 @@
 <!-- 👤 PROFILE SECTION -->
 
 <div align="center">
-
-<img src="https://github.com/saptads14/saptads14/blob/main/Avatar?raw=true" width="140" alt="Saptadeep Halder Avatar"/>
-
 <h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="28" />
+  <img src="https://github.com/saptads14/saptads14/blob/main/Avatar?raw=true"
+       width="90"
+       alt="Saptadeep Halder Avatar"
+       align="center" />
+
+  &nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png"
+       width="28" />
+
   Saptadeep Halder
 </h1>
 
