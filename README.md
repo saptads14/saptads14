@@ -176,29 +176,14 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
 
-## 🌍 **Connect with Me**
-<p align="center">
-  <a href="mailto:saptadeephalder2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/saptadeep-halder04/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/saptads14">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
-
 ## ⚙️ **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saptads14&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saptads14&theme=radical&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saptads14&show_icons=true&bg_color=0D1117&title_color=FF007F&text_color=FFFFFF&icon_color=00E5FF&border_color=7B2CBF&border_radius=10" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saptads14&background=0D1117&ring=00E5FF&fire=FF007F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=FFFFFF&border=7B2CBF&border_radius=10" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptads14&theme=radical&layout=donut&langs_count=8&bg_color=0D1117" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptads14&layout=donut&langs_count=8&bg_color=0D1117&title_color=FF007F&text_color=FFFFFF&border_color=7B2CBF&border_radius=10" height="200" />
 </p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
@@ -233,6 +218,22 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 <!-- 🤝 THANK YOU SECTION -->
 <div align="center">
 
+  <h2>🌐 Let's Connect!</h2>
+  
+  <p align="center">
+    <a href="mailto:saptadeephalder2004@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/saptadeep-halder04/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/saptads14">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+
+  <br>
+
   <h3>🤝 Thanks for Visiting My Profile! 🤝</h3>
 
   <b>😎 Keep Coding | Keep Learning | Keep Growing 😎</b>
@@ -243,4 +244,4 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" alt="Rocket Animation"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2CBF,100:FF007F&height=120&section=footer&animation=twinkling"/>
