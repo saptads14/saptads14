@@ -48,8 +48,6 @@
 </tr>
 </table>
 
-</div>
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" width="22" />
 <b>B.Tech in Computer Science & Engineering (Data Science)</b>
 
