@@ -8,18 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=950&lines=👋+Hi,+I'm+Saptadeep+Halder;🧪+QA+Automation+Engineer;🚀+Future+SDET;💻+Java+%7C+Selenium+%7C+TestNG;🔗+API+Testing+%7C+Postman+%7C+REST+Assured;🐞+Finding+Bugs+Before+Users+Do;⚡+Building+Reliable+Software+Solutions" />
 </p>
 
-<!-- 👁️ PROFILE VIEWS -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saptads14&label=Profile+Views&style=for-the-badge&color=FF007F"/>
-</p>
-
-<!-- ⚡ ANIMATED DIVIDER -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
 <!-- 👁️ LIVE VISITOR COUNTER -->
 <p align="center"> 
 <table align="center" style="border-collapse: collapse; border: none;"> 
