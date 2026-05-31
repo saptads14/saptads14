@@ -1,6 +1,6 @@
 <!-- 🌌 ANIMATED HERO BANNER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Saptadeep%20Halder&fontSize=55&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=QA%20Automation%20Engineer%20|%20SDET%20Aspirant&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Saptadeep%20Halder&fontSize=50&fontColor=#FFFFFF&animation=fadeIn&fontAlignY=38&desc=QA%20Automation%20Engineer%20|%20SDET%20Aspirant&descAlignY=58&descAlign=50"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Saptadeep+Halder;💻+Aspiring+SDET;🧪+Automation+Testing+%7C+Manual+Testing;🔗+API+Testing+%7C+Selenium;🐞+Passionate+About+Finding+Bugs;🚀+Building+Reliable+Software+Solutions" />
