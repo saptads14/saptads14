@@ -30,7 +30,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="20" height="20" /> <b>B.Tech in Computer Science and Engineering (Data Science)</b><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> <b>B.Tech in Computer Science and Engineering (Data Science)</b><br>
   📍 <i>The Neotia University, West Bengal, India</i><br>
   📅 <b>2022 – 2026</b>
 </p>
