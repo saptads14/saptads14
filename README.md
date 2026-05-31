@@ -207,17 +207,30 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 ## 🌐 Let's Connect!
 
 <div align="center">
-<p>
-  <a href="mailto:saptadeephalder2004@gmail.com">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" />
-  </a>
-  <a href="https://www.linkedin.com/in/saptadeep-halder04/">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" style="margin-bottom: 8px;" />
-  </a>
-  <a href="https://github.com/saptads14">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+
+<a href="mailto:saptadeephalder2004@gmail.com">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp"
+       alt="Email"
+       width="60" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/saptadeep-halder04/">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
+       alt="LinkedIn"
+       width="60" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/saptads14">
+  <img src="https://user-images.githubusercontent.com/74038190/216656986-e9fbb8f8-4e3a-4f8f-a6d0-4d7e4e0f0e2c.gif"
+       alt="GitHub"
+       width="60" />
+</a>
+
+</div>
 <br>
 
 <h3>🤝 Thanks for Visiting My Profile! 🤝</h3>
