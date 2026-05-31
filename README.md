@@ -1,6 +1,6 @@
 <!-- 🌌 ANIMATED HERO BANNER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,50:7B2CBF,100:FF007F&text=Saptadeep%20Halder&fontSize=30&fontColor=FFFFFF&fontAlignY=35&fontAlign=50&animation=fadeIn&desc=QA%20Automation%20Engineer%20|%20SDET%20Aspirant&descAlignY=60&descAlign=50&descSize=15&fontStyle=Mali"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,50:7B2CBF,100:FF007F&text=Saptadeep%20Halder&fontSize=30&fontColor=FFFFFF&fontAlignY=35&fontAlign=50&animation=twinkling&desc=QA%20Automation%20Engineer%20|%20SDET%20Aspirant&descAlignY=60&descAlign=50&descSize=15&fontStyle=Mali"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Saptadeep+Halder;💻+Aspiring+SDET;🧪+Automation+Testing+%7C+Manual+Testing;🔗+API+Testing+%7C+Selenium;🐞+Passionate+About+Finding+Bugs;🚀+Building+Reliable+Software+Solutions" />
@@ -20,7 +20,7 @@
 </table> 
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
 
 <h1 align="center">🫠 <b>Saptadeep Halder</b></h1>
 
@@ -30,155 +30,216 @@
   📅 <b>2022 – 2026</b>
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
 
 ## 👨‍💻 **About Me**
 Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation Testing**, **Manual Testing**, and **API Testing**. I focus on delivering high-quality, reliable software by identifying defects early and ensuring seamless user experiences. With a background in Data Science, I bring strong analytical thinking and a detail-oriented approach to quality assurance. 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
 
-## 🧠 **Technical Skills**
+<h2 align="center">🧠 Technical Skills</h2>
 
-<!-- 💻 PROGRAMMING LANGUAGES -->
-<div>
-  <table>
-    <tr>
-      <td><b>💻 Programming Languages</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=java,python,r,c" />
-      </td>
-    </tr>
-  </table>
-</div>
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=c" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="55"/>
+</p>
 
-<!-- 🎨 FRONTEND DEVELOPMENT -->
-<div>
-  <table>
-    <tr>
-      <td><b>🎨 Frontend Development</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
-      </td>
-    </tr>
-  </table>
-</div>
+</details>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<br>
 
-<!-- ⚙️ BACKEND DEVELOPMENT -->
-<div>
-  <table>
-    <tr>
-      <td><b>⚙️ Backend Development</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=django,flask" />
-        <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSocket-0078D7?style=for-the-badge&logo=websocket&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+<details open>
+<summary><b>🧪 QA Automation & Testing</b></summary>
+<br>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center">
 
-<!-- 🗃️ DATABASES -->
-<div>
-  <table>
-    <tr>
-      <td><b>🗃️ Databases</b></td>
-      <td>
-        <p align="left">
-          <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mongodb" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" style="vertical-align: middle;" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<img src="https://img.shields.io/badge/TestNG-E97627?style=for-the-badge"/>
 
-<!-- 📊 DATA VISUALIZATION TOOLS -->
-<div>
-  <table>
-    <tr>
-      <td><b>📊 Data Visualization Tools</b></td>
-      <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70" alt="Power BI"/>
-        <img src="https://img.icons8.com/color/96/000000/tableau-software.png" width="48" alt="Tableau" />
-        <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019--v1.png" width="48" alt="Microsoft Excel" />
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
 
-<!-- ☁️ CLOUD & DEPLOYMENT -->
-<div>
-  <table>
-    <tr>
-      <td><b>☁️ Cloud & Deployment Tools</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=aws,vercel,github,docker" />
-        <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge"/>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira"/>
 
-<!-- 🧩 PYTHON LIBRARIES -->
-<div>
-  <table>
-    <tr>
-      <td><b>🧩 Python Libraries & Frameworks</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=plotly&logoColor=white" />
-        <img src="https://img.shields.io/badge/Seaborn-3C5280?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+</p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+</details>
 
-<!-- 🧰 SOFTWARE TOOLS -->
-<div>
-  <table>
-    <tr>
-      <td><b>🧰 Software Tools & IDEs</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+<br>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60"/>
+
+</p>
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60"/>
+
+<img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WebSocket-0078D7?style=for-the-badge"/>
+
+</p>
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60"/>
+
+</p>
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>📊 Data Visualization</b></summary>
+<br>
+
+<p align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="60"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="60"/>
+
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="60"/>
+
+</p>
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>☁️ Cloud & Deployment</b></summary>
+<br>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
+
+<img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" height="60"/>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>🧩 Data Science & AI</b></summary>
+<br>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="60"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60"/>
+
+</p>
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>🛠️ Software Tools & IDEs</b></summary>
+<br>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60"/>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+
+</p>
+
+</details>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
 
 ## 🏆 **Achievements**
 - 🥈 National-Level Hackathon Finalist – HackXelerate ’25 (*Team Data Titans*)
 - Secured a place among the top finalists out of 600+ teams and 900+ participants nationwide.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
 
 ## 💬 **Soft Skills**
 🗣️ Communication | 💡 Problem Solving | 🤝 Teamwork | ⏰ Time Management | 👑 Leadership | 🎨 Creativity  
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
 
 ## 🌍 **Connect with Me**
 <p align="center">
@@ -193,7 +254,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
   </a>
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
 
 ## ⚙️ **GitHub Stats**
 <p align="center">
@@ -205,12 +266,12 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptads14&theme=radical&layout=donut&langs_count=8&bg_color=0D1117" height="200" />
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
 
 ## ✨ **Quote I Live By**
 > “Data is the new oil, but intelligence is the new power.” ⚡  
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFD700,100:B8860B&height=4&animation=twinkling" width="100%"></p>
 
 <!-- 🤝 THANK YOU SECTION -->
 <div align="center">
