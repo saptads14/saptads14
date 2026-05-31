@@ -14,7 +14,7 @@
     </td> 
     <td align="center" style="border: none; padding-left: 10px;"> 
       <img src="https://img.shields.io/badge/Profile_Traffic-0f84f2?style=for-the-badge&logo=github&logoColor=white"/>
-      <img src="https://komarev.com/ghpvc/?username=saptads14&style=for-the-badge&color=fcaf08" alt="Profile Traffic"/>
+     <img src="https://komarev.com/ghpvc/?username=saptads14&label=%20&style=for-the-badge&color=fcaf08" alt="Profile Views"/>
     </td> 
   </tr> 
 </table> 
