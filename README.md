@@ -1,5 +1,7 @@
 <!-- 🌌 ANIMATED HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:00E5FF,25:4F46E5,50:7B2CBF,75:C026D3,100:FF007F&text=Saptadeep%20Halder&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=QA%20Automation%20Engineer%20|%20SDET%20Aspirant&descAlignY=58&descAlign=50&descSize=18"/>
+<!-- HEADER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:0D1117,10:0D1117,30:00E5FF,50:7B2CBF,70:FF007F,90:0D1117,100:0D1117&text=Saptadeep%20Halder&fontSize=42&fontColor=FFFFFF&animation=twinkling&desc=QA%20Automation%20Engineer%20|%20SDET%20Aspirant&descAlignY=58&descAlign=50"/>
 
 
 <p align="center" style="margin-top:-202px;">
