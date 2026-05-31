@@ -20,7 +20,7 @@
 </table> 
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=4&animation=twinkling" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=2&animation=twinkling" width="100%"></p>
 
 <h1 align="center">🫠 <b>Saptadeep Halder</b></h1>
 
@@ -30,7 +30,7 @@
   📅 <b>2022 – 2026</b>
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=4&animation=twinkling" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=2&animation=twinkling" width="100%"></p>
 
 ## 👨‍💻 **About Me**
 Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation Testing**, **Manual Testing**, and **API Testing**. I focus on delivering high-quality, reliable software by identifying defects early and ensuring seamless user experiences. With a background in Data Science, I bring strong analytical thinking and a detail-oriented approach to quality assurance. 
