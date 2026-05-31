@@ -37,135 +37,196 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
 
-## 🧠 **Technical Skills**
+<h2 align="center">🧠 Technical Skills</h2>
 
-<!-- 💻 PROGRAMMING LANGUAGES -->
-<div>
-  <table>
-    <tr>
-      <td><b>💻 Programming Languages</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=java,python,r,c" />
-      </td>
-    </tr>
-  </table>
-</div>
+<details>
+<summary><b>💻 Programming Languages</b></summary>
+<br>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=c" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="55"/>
+</p>
 
-<!-- 🎨 FRONTEND DEVELOPMENT -->
-<div>
-  <table>
-    <tr>
-      <td><b>🎨 Frontend Development</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
-      </td>
-    </tr>
-  </table>
-</div>
+</details>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
+<br>
 
-<!-- ⚙️ BACKEND DEVELOPMENT -->
-<div>
-  <table>
-    <tr>
-      <td><b>⚙️ Backend Development</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=django,flask" />
-        <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSocket-0078D7?style=for-the-badge&logo=websocket&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+<details>
+<summary><b>🧪 QA Automation & Testing</b></summary>
+<br>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
+<p align="center">
 
-<!-- 🗃️ DATABASES -->
-<div>
-  <table>
-    <tr>
-      <td><b>🗃️ Databases</b></td>
-      <td>
-        <p align="left">
-          <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mongodb" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" style="vertical-align: middle;" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
+<img src="https://img.shields.io/badge/TestNG-E97627?style=for-the-badge"/>
 
-<!-- 📊 DATA VISUALIZATION TOOLS -->
-<div>
-  <table>
-    <tr>
-      <td><b>📊 Data Visualization Tools</b></td>
-      <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70" alt="Power BI"/>
-        <img src="https://img.icons8.com/color/96/000000/tableau-software.png" width="48" alt="Tableau" />
-        <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019--v1.png" width="48" alt="Microsoft Excel" />
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
 
-<!-- ☁️ CLOUD & DEPLOYMENT -->
-<div>
-  <table>
-    <tr>
-      <td><b>☁️ Cloud & Deployment Tools</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=aws,vercel,github,docker" />
-        <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge"/>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira"/>
 
-<!-- 🧩 PYTHON LIBRARIES -->
-<div>
-  <table>
-    <tr>
-      <td><b>🧩 Python Libraries & Frameworks</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=plotly&logoColor=white" />
-        <img src="https://img.shields.io/badge/Seaborn-3C5280?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+</p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
+</details>
 
-<!-- 🧰 SOFTWARE TOOLS -->
-<div>
-  <table>
-    <tr>
-      <td><b>🧰 Software Tools & IDEs</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+<br>
+
+<details>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60"/>
+
+</p>
+
+</details>
+
+<br>
+
+<details>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60"/>
+
+<img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WebSocket-0078D7?style=for-the-badge"/>
+
+</p>
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60"/>
+
+</p>
+
+</details>
+
+<br>
+
+<details>
+<summary><b>📊 Data Visualization</b></summary>
+<br>
+
+<p align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="60"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="60"/>
+
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="60"/>
+
+</p>
+
+</details>
+
+<br>
+
+<details>
+<summary><b>☁️ Cloud & Deployment</b></summary>
+<br>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
+
+<img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" height="60"/>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🧩 Data Science & AI</b></summary>
+<br>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="60"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60"/>
+
+</p>
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🛠️ Software Tools & IDEs</b></summary>
+<br>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60"/>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+
+</p>
+
+</details>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47ff841-57ac-4475-9c86-89d81d2df0c4.gif" width="100%"></p>
 
