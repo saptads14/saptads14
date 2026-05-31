@@ -25,12 +25,8 @@
 <!-- 👤 PROFILE SECTION -->
 
 <div align="center">
-
-
-
 <h1>
   <img src="https://github.com/saptads14/saptads14/blob/main/Avatar?raw=true" width="140" alt="Saptadeep Halder Avatar"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="28" />
   Saptadeep Halder
 </h1>
 
