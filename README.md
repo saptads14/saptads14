@@ -37,7 +37,10 @@
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
 
-## 👨‍💻 **About Me**
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" />
+  About Me
+</h2>
 Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation Testing**, **Manual Testing**, and **API Testing**. I focus on delivering high-quality, reliable software by identifying defects early and ensuring seamless user experiences. With a background in Data Science, I bring strong analytical thinking and a detail-oriented approach to quality assurance. 
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
