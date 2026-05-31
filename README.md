@@ -109,6 +109,16 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 </details>
 
 <details open>
+<summary><b>📊 Data Visualization</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+</details>
+
+<details open>
 <summary><b>Cloud & Deployment</b></summary>
 <br>
 <p align="center">
@@ -131,6 +141,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 </details>
 
