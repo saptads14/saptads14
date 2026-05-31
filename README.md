@@ -31,7 +31,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> <b>B.Tech in Computer Science and Engineering (Data Science)</b><br>
-  📍 <i>The Neotia University, West Bengal, India</i><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Compass.webp" alt="Compass" width="25" height="25" /> <i>The Neotia University, West Bengal, India</i><br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Tear%20Off%20Calendar.webp" alt="Tear Off Calendar" width="25" height="25" /> <b>2022 – 2026</b>
 </p>
 
