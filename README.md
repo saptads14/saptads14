@@ -221,6 +221,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 
 <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-4dc8f5cb-4b44-4f76-9a6f-cf547a8fbca4.gif" width="500"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2CBF,100:FF007F&height=120&section=footer&animation=twinkling"/>
