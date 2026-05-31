@@ -153,10 +153,10 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
 
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="30" height="30" />
   Achievements
 </h2>
-- 🥈 National-Level Hackathon Finalist – HackXelerate ’25 (*Team Data Titans*)
+- 🥈 National-Level Hackathon Finalist – HackXelerate ’25 (*Team Data Titans*) <br>
 - Secured a place among the top finalists out of 600+ teams and 900+ participants nationwide.
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
