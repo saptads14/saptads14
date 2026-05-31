@@ -23,7 +23,7 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212259472-b30742fb-19dd-4258-80bf-05a56c9a352c.png" width="100" style="border-radius: 50%; box-shadow: 0px 8px 15px rgba(0, 229, 255, 0.5); margin-right: 20px; vertical-align: middle;" alt="Saptadeep Halder Avatar"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212259472-b30742fb-19dd-4258-80bf-05a56c9a352c.png" width="100" style="border-radius: 80%; box-shadow: 0px 8px 15px rgba(0, 229, 255, 0.5); margin-right: 20px; vertical-align: middle;" alt="Saptadeep Halder Avatar"/>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> <b>Saptadeep Halder</b>
 </h1>
 
