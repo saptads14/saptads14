@@ -214,7 +214,7 @@ Hi, I’m Saptadeep Halder, a **QA Automation Engineer** skilled in **Automation
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
-  Quote I Live By ****
+  Quote I Live By
 </h2>
 > "A bug caught in automation is a disaster avoided in production." ⚡  
 
