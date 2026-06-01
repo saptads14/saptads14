@@ -262,7 +262,7 @@ As a <b>Computer Science & Data Science</b> student, I bring strong analytical t
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Performing%20Arts.webp" alt="Performing Arts" width="30" height="30" />Hobbies & Interests
 </h2>
 
-<p align="center">
+<p align="center"> ⦁⦁⦁
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Artist%20Light%20Skin%20Tone.png" width="28"/>
   <b>Drawing</b> &nbsp;&nbsp;||&nbsp;&nbsp;
 
@@ -273,7 +273,7 @@ As a <b>Computer Science & Data Science</b> student, I bring strong analytical t
   <b>Finding Bugs</b> &nbsp;&nbsp;||&nbsp;&nbsp;
 
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f7/512.gif" width="28" alt="Photography"/>
-  <b>Photography</b>
+  <b>Photography</b> ⦁⦁⦁
 </p>
 
 <ul align="left">
