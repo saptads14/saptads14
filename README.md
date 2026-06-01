@@ -262,7 +262,7 @@ As a <b>Computer Science & Data Science</b> student, I bring strong analytical t
 
 <!-- ✨ HOBBIES -->
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Performing%20Arts.webp" alt="Performing Arts" width="25" height="25" />Hobbies & Interests
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Performing%20Arts.webp" alt="Performing Arts" width="30" height="30" />Hobbies & Interests
 </h2>
 
 <p align="center">
