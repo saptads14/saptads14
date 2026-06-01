@@ -213,14 +213,21 @@ As a <b>Computer Science & Data Science</b> student, I bring strong analytical t
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Gem%20Stone.webp" alt="Gem Stone" width="30" height="30" />
   GitHub Stats
 </h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saptads14&show_icons=true&bg_color=0D1117&title_color=FF007F&text_color=FFFFFF&icon_color=00E5FF&border_color=7B2CBF&border_radius=10" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saptads14&background=0D1117&ring=00E5FF&fire=FF007F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=FFFFFF&border=7B2CBF&border_radius=10" height="170" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptads14&layout=donut&langs_count=8&bg_color=0D1117&title_color=FF007F&text_color=FFFFFF&border_color=7B2CBF&border_radius=10" height="200" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=⚡%20GitHub%20Analytics&fontSize=35&fontColor=ffffff&color=0:6A11CB,100:2575FC&animation=fadeIn" />
+
+<br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saptads14&show_icons=true&theme=transparent&hide_border=false&border_radius=15&title_color=6A11CB&icon_color=2575FC&text_color=FFFFFF&border_color=6A11CB"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=saptads14&theme=transparent&hide_border=false&border_radius=15&ring=2575FC&fire=6A11CB&currStreakLabel=2575FC&border=6A11CB"/>
+
+<br><br>
+
+<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptads14&layout=compact&theme=transparent&hide_border=false&border_radius=15&title_color=6A11CB&text_color=FFFFFF&border_color=6A11CB"/>
+
+</div>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
 
