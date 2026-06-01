@@ -278,7 +278,7 @@ As a <b>Computer Science & Data Science</b> student, I bring strong analytical t
 </p>
 
 <div align="center">
-<h3>🤝 Thanks for Visiting My Profile! 🤝</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> Thanks for Visiting My Profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /></h3>
 <b>😎 Keep Coding • Keep Learning • Keep Growing 😎</b>
 </div>
 
