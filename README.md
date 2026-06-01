@@ -260,6 +260,30 @@ As a <b>Computer Science & Data Science</b> student, I bring strong analytical t
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
 
+<!-- ✨ HOBBIES -->
+<h2 align="center">✨ Hobbies & Interests</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Artist%20Light%20Skin%20Tone.png" width="28"/>
+  <b>Drawing</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Singer%20Light%20Skin%20Tone.png" width="28"/>
+  <b>Singing</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" width="28"/>
+  <b>Finding Bugs</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f7/512.gif" width="28" alt="Photography"/>
+  <b>Photography</b>
+</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
+
+
+<p align="center">
+  🎨 Turning imagination into sketches • 🎤 Enjoying music and melodies • 🐞 Hunting bugs and improving software quality • 📸 Capturing beautiful moments through my lens
+</p>
+
 <!-- 🤝 THANK YOU SECTION -->
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Mirror%20Ball.webp" width="32" />
