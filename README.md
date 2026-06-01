@@ -276,13 +276,10 @@ As a <b>Computer Science & Data Science</b> student, I bring strong analytical t
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f7/512.gif" width="28" alt="Photography"/>
   <b>Photography</b>
 </p>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
-
-
 <p align="center">
-  🎨 Turning imagination into sketches • 🎤 Enjoying music and melodies • 🐞 Hunting bugs and improving software quality • 📸 Capturing beautiful moments through my lens
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="25" height="25" /> Turning imagination into sketches • <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Microphone.webp" alt="Microphone" width="25" height="25" /> Enjoying music and melodies • 🐞 Hunting bugs and improving software quality • <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f7/512.gif" width="28" alt="Photography"/> Capturing beautiful moments through my lens
 </p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
 
 <!-- 🤝 THANK YOU SECTION -->
 <h2>
@@ -304,6 +301,10 @@ As a <b>Computer Science & Data Science</b> student, I bring strong analytical t
 <div align="center">
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> Thanks for Visiting My Profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /></h3>
 <b>😎 Keep Coding • Keep Learning • Keep Growing 😎</b>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Hot%20Beverage.webp" width="30"/>
+  Powered by Selenium, Java, Curiosity & Coffee
+</p>
 </div>
 
 <!-- FOOTER -->
