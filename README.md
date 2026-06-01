@@ -2,8 +2,21 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:0D1117,2:161B22,12:00F5FF,28:00E5FF,50:9D4EDD,72:FF4FD8,88:FF007F,96:161B22,100:0D1117&text=Saptadeep%20Halder&fontSize=35&fontColor=FFFFFF&fontAlignY=25&animation=twinkling&desc=QA%20Automation%20Engineer%20|%20SDET%20Aspirant&descAlignY=45&descAlign=50&descSize=18"/>
 
 <p align="center" style="margin-top:-202px;">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=fad543&center=true&vCenter=true&width=950&lines=👋+Hi,+I'm+Saptadeep+Halder;🧪+QA+Automation+Engineer;🚀+Future+SDET;💻+Java+%7C+Selenium+Webdriver;🔗+API+Testing+%7C+Postman+%7C+REST+Assured;🐞+Finding+Bugs+Before+Users+Do;⚡+Building+Reliable+Software+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=fad543&center=true&vCenter=true&width=950&lines=👋+Hi,+I'm+Saptadeep+Halder;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" alt="Robot" width="25" height="25" />;+QA+Automation+Engineer;🚀+Future+SDET;💻+Java+%7C+Selenium+Webdriver;🔗+API+Testing+%7C+Postman+%7C+REST+Assured;🐞+Finding+Bugs+Before+Users+Do;⚡+Building+Reliable+Software+Solutions"/>
 </p>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/saptads14/saptads14/main/Assets/Avatar.png"
+     width="140"
+     alt="Saptadeep Halder Avatar"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=FAD543&center=true&vCenter=true&width=950&lines=👋+Hi,+I'm+Saptadeep+Halder;🤖+QA+Automation+Engineer;🚀+Future+SDET;💻+Java+%7C+Selenium+WebDriver;🔗+API+Testing+%7C+Postman+%7C+REST+Assured;🐞+Finding+Bugs+Before+Users+Do;⚡+Building+Reliable+Software+Solutions"
+     alt="Typing SVG" />
+
+</div>
 
 <!-- 👁️ LIVE VISITOR COUNTER -->
 <p align="center"> 
