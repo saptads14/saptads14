@@ -29,7 +29,7 @@
 <tr>
 <td valign="middle">
 
-<img src="https://github.com/saptads14/saptads14/blob/main/Avatar?raw=true"
+<img src="https://github.com/saptads14/saptads14/blob/main/assets/Avatar?raw=true"
      width="140"
      alt="Saptadeep Halder Avatar"/>
 
