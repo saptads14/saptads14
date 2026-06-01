@@ -278,9 +278,28 @@ As a <b>Computer Science & Data Science</b> student, I bring strong analytical t
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f7/512.gif" width="28" alt="Photography"/>
   <b>Photography</b>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="25" height="25" /> Turning imagination into sketches • <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Microphone.webp" alt="Microphone" width="25" height="25" /> Enjoying music and melodies • <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Beetle.webp" alt="Beetle" width="25" height="25" /> Hunting bugs and improving software quality • <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f7/512.gif" width="28" alt="Photography"/> Capturing beautiful moments through my lens
-</p>
+
+<ul align="left">
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="25" height="25" />
+    Turning imagination into sketches
+  </li>
+
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Microphone.webp" alt="Microphone" width="25" height="25" />
+    Enjoying music and melodies
+  </li>
+
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Beetle.webp" alt="Beetle" width="25" height="25" />
+    Hunting bugs and improving software quality
+  </li>
+
+  <li>
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f7/512.gif" width="28" alt="Photography" />
+    Capturing beautiful moments through my lens
+  </li>
+</ul>
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
 
 <!-- 🤝 THANK YOU SECTION -->
