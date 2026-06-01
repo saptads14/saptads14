@@ -29,10 +29,9 @@
 <tr>
 <td valign="middle">
 
-<img src="https://github.com/saptads14/saptads14/blob/main/assets/Avatar?raw=true"
+<img src="https://raw.githubusercontent.com/saptads14/saptads14/main/Assets/Avatar.png"
      width="140"
      alt="Saptadeep Halder Avatar"/>
-
 </td>
 
 <td valign="middle">
