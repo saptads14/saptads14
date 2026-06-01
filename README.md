@@ -214,19 +214,9 @@ As a <b>Computer Science & Data Science</b> student, I bring strong analytical t
   GitHub Stats
 </h2>
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=⚡%20GitHub%20Analytics&fontSize=35&fontColor=ffffff&color=0:6A11CB,100:2575FC&animation=fadeIn" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=2000&color=00E5FF&center=true&vCenter=true&width=500&lines=Consistency+beats+intensity.;Building+one+commit+at+a+time." />
 <br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saptads14&show_icons=true&theme=transparent&hide_border=false&border_radius=15&title_color=6A11CB&icon_color=2575FC&text_color=FFFFFF&border_color=6A11CB"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=saptads14&theme=transparent&hide_border=false&border_radius=15&ring=2575FC&fire=6A11CB&currStreakLabel=2575FC&border=6A11CB"/>
-
-<br><br>
-
-<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptads14&layout=compact&theme=transparent&hide_border=false&border_radius=15&title_color=6A11CB&text_color=FFFFFF&border_color=6A11CB"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=saptads14&background=0D1117&ring=00E5FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=AAAAAA&hide_border=true" />
 </div>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
