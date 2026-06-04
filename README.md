@@ -217,7 +217,7 @@ As a <b>Computer Science & Data Science</b> student, I bring strong analytical t
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=2000&color=00E5FF&center=true&vCenter=true&width=500&lines=Consistency+beats+intensity.;Building+one+commit+at+a+time." />
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saptads14/saptads14/output/github-contribution-grid-snake-dark.svg" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saptads14&theme=tokyonight"/>
 </p>
 </div>
 
