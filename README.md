@@ -216,7 +216,9 @@ As a <b>Computer Science & Data Science</b> student, I bring strong analytical t
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=2000&color=00E5FF&center=true&vCenter=true&width=500&lines=Consistency+beats+intensity.;Building+one+commit+at+a+time." />
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saptads14&background=0D1117&ring=00E5FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=AAAAAA&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saptads14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 </div>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FFD700,100:FF8C00&height=1&animation=twinkling" width="100%"></p>
